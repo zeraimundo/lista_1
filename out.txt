@@ -1,0 +1,10 @@
+ifpb
+Área de trabalho
+Documentos
+Downloads
+Imagens
+Modelos
+Música
+Público
+teste.sh
+Vídeos
